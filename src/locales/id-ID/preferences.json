@@ -1,0 +1,114 @@
+{
+	"title": "Preferensi",
+	"copyPreferences": "Salin Preferensi",
+	"copyPreferencesSuccessTitle": "Berhasil disalin",
+	"copyPreferencesSuccess": "Berhasil disalin, silakan timpa di `src/store/preferences/index.ts`",
+	"clearAndLogout": "Hapus Cache & Keluar",
+	"theme": {
+		"title": "Tema",
+		"followSystem": "Ikuti Sistem",
+		"light": "Terang",
+		"dark": "Gelap",
+		"colorBlindMode": "Mode Buta Warna",
+		"grayMode": "Mode Abu-abu",
+		"radius": "Radius",
+		"builtin": {
+			"title": "Bawaan",
+			"red": "Merah Debu",
+			"volcano": "Gunung Berapi",
+			"orange": "Oranye Senja",
+			"gold": "Emas Calendula",
+			"yellow": "Kuning Matahari Terbit",
+			"lime": "Lime",
+			"green": "Hijau Kutub",
+			"cyan": "Cyan",
+			"blue": "Biru Fajar",
+			"geekblue": "Biru Geek",
+			"purple": "Ungu Emas",
+			"magenta": "Magenta",
+			"gray": "Abu-abu",
+			"custom": "Kustom"
+		}
+	},
+	"layout": {
+		"title": "Layout",
+		"topNavigation": "Navigasi Atas",
+		"topNavigationTip": "Menu di posisi atas",
+		"sideNavigation": "Navigasi Samping",
+		"sideNavigationTip": "Menu di posisi samping",
+		"twoColumnNavigation": "Navigasi Dua Kolom",
+		"twoColumnNavigationTip": "Menu vertikal dua kolom di posisi samping",
+		"mixedNavigation": "Navigasi Campuran",
+		"mixedNavigationTip": "Navigasi utama di atas, navigasi sekunder di samping"
+	},
+	"sidebar": {
+		"title": "Sidebar",
+		"width": "Lebar",
+		"enable": "Tampilkan Sidebar",
+		"collapsedWidth": "Lebar Menu Collapse",
+		"collapsed": "Collapse Menu",
+		"collapsedShowTitle": "Tampilkan Judul Menu",
+		"firstColumnWidthInTwoColumnNavigation": "Lebar Kolom Pertama dalam Navigasi Dua Kolom",
+		"sidebarTheme": "Tema Sidebar",
+		"accordion": "Menu Akordion",
+		"autoActivateChild": "Aktivasi Otomatis SubMenu",
+		"autoActivateChildTip": "`Diaktifkan` untuk mengaktifkan submenu secara otomatis saat klik menu.",
+		"expandOnHover": "Perluas saat Hover",
+		"expandOnHoverTip": "Ketika mouse hover di atas menu, \n `Diaktifkan` untuk memperluas menu anak \n `Dinonaktifkan` untuk memperluas seluruh sidebar."
+	},
+	"tabbar": {
+		"title": "Tabbar",
+		"enable": "Aktifkan Tab Bar",
+		"icon": "Tampilkan Ikon Tabbar",
+		"showMore": "Tampilkan Tombol Lainnya",
+		"showMaximize": "Tampilkan Tombol Maksimalkan",
+		"persist": "Pertahankan Tab",
+		"draggable": "Aktifkan Drag Sort",
+		"styleType": {
+			"title": "Gaya Tab",
+			"chrome": "Chrome",
+			"card": "Card",
+			"plain": "Plain",
+			"brisk": "Brisk"
+		},
+		"contextMenu": {
+			"refresh": "Muat Ulang",
+			"close": "Tutup",
+			"pin": "Pin",
+			"unpin": "Unpin",
+			"closeLeft": "Tutup Tab Kiri",
+			"closeRight": "Tutup Tab Kanan",
+			"closeOthers": "Tutup Tab Lain",
+			"closeAll": "Tutup Semua Tab",
+			"openInNewWindow": "Buka di Jendela Baru",
+			"maximize": "Maksimalkan",
+			"restoreMaximize": "Pulihkan"
+		}
+	},
+	"animation": {
+		"title": "Animasi",
+		"loading": "Loading Halaman",
+		"transition": "Transisi Halaman",
+		"progress": "Progress Halaman"
+	},
+	"general": {
+		"title": "Umum",
+		"language": "Bahasa",
+		"dynamicTitle": "Judul Dinamis",
+		"watermark": "Watermark",
+		"watermarkTip": "Watermark seperti psoriasis website, tidak disarankan",
+		"watermarkContent": "Konten Watermark",
+		"enableCheckUpdate": "Periksa Update",
+		"enableBackTopButton": "Tombol Kembali ke Atas"
+	},
+	"footer": {
+		"title": "Footer",
+		"showFooter": "Tampilkan Footer",
+		"fixedFooter": "Footer Tetap",
+		"companyName": "Nama Perusahaan",
+		"companyWebsite": "Website Perusahaan",
+		"copyrightDate": "Tanggal Copyright",
+		"ICPNumber": "Nomor ICP",
+		"ICPLink": "Link ICP"
+	}
+}

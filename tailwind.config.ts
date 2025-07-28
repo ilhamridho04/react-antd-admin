@@ -59,7 +59,7 @@ export default {
 	},
 	plugins: [
 		plugin(({ addVariant }) => {
-			const languages = ["en-US", "zh-CN"];
+			const languages = ["en-US", "id-ID"];
 			/**
 			 * 添加 lang 伪类选择器
 			 *

@@ -1,0 +1,42 @@
+{
+	"role": {
+		"name": "Nama Peran",
+		"id": "ID Peran",
+		"addRole": "Tambah Peran",
+		"editRole": "Edit Peran",
+		"assignMenu": "Tetapkan Menu"
+	},
+	"user": {
+		"name": "Nama Pengguna",
+		"id": "ID Pengguna",
+		"addUser": "Tambah Pengguna",
+		"editUser": "Edit Pengguna"
+	},
+	"menu": {
+		"name": "Nama Menu",
+		"routePath": "Path Rute",
+		"addMenu": "Tambah Menu",
+		"editMenu": "Edit Menu",
+		"menuType": "Tipe Menu",
+		"menuTypeDesc": "Deskripsi Tipe Menu 0: Menu, 1: Iframe, 2: Tautan Eksternal, 3: Tombol",
+		"menu": "Menu",
+		"iframe": "Iframe",
+		"externalLink": "Tautan Eksternal",
+		"button": "Tombol",
+		"menuOrder": "Urutan Menu",
+		"menuIcon": "Ikon Menu",
+		"componentUrl": "URL Komponen",
+		"keepAlive": "Cache Halaman",
+		"hideInMenu": "Sembunyikan di Menu",
+		"currentActiveMenu": "Path Aktif",
+		"iframeLink": "Tautan Iframe",
+		"externalLinkUrl": "URL Tautan Eksternal",
+		"parentMenu": "Menu Induk"
+	},
+	"dept": {
+		"name": "Nama Departemen",
+		"id": "ID Departemen",
+		"addDept": "Tambah Departemen",
+		"editDept": "Edit Departemen"
+	}
+}

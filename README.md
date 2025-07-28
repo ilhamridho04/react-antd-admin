@@ -11,7 +11,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/condorheroblog/react-antd-admin?color=fa6470&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/condorheroblog/react-antd-admin?style=flat)
 
-**English** | [中文](./README.zh-CN.md)
+**English** | **Bahasa Indonesia** (Default)
 
 ## Introduction
 
@@ -103,7 +103,6 @@ Thanks to the following excellent projects for providing inspiration:
 If this project was helpful to you, you can buy the author a takeaway meal.
 
 ![Sponsor](https://camo.githubusercontent.com/b61a54a08ff3a1392f191016d6c0d7537559bb4fa19ae1d27fadfd1de5796289/68747470733a2f2f636f6e646f726865726f626c6f672e6769746875622e696f2f72656163742d616e74642d61646d696e2f646f63732f73706f6e736f722e706e67)
-
 
 ## License
 

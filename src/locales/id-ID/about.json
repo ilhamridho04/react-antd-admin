@@ -1,0 +1,13 @@
+{
+	"aboutProject": "Tentang Proyek",
+	"descriptions": "react-ant-admin adalah solusi mid to backend berdasarkan React Hooks, Vite, dan TypeScript. Dirancang untuk membantu Anda membangun proyek backend tingkat enterprise dengan cepat. Dapat membantu Anda dalam mengadopsi teknologi baru dan aspek lainnya.",
+	"projectMessage": "Informasi Proyek",
+	"version": "Versi",
+	"lastBuildTime": "Waktu Build Terakhir",
+	"license": "Lisensi",
+	"previewAddress": "URL Preview",
+	"documentAddress": "URL Dokumentasi",
+	"author": "Penulis",
+	"dependencies": "Dependencies Produksi",
+	"devDependencies": "Dependencies Development"
+}

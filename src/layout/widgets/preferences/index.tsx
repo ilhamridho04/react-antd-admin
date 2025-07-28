@@ -5,7 +5,7 @@ import { useDeviceType, usePreferences } from "#src/hooks";
 import { loginPath } from "#src/router/extra-info";
 import { useAuthStore, usePreferencesStore } from "#src/store";
 
-import { CopyOutlined, RedoOutlined, SettingOutlined, RocketOutlined } from "@ant-design/icons";
+import { CopyOutlined, RedoOutlined, RocketOutlined, SettingOutlined } from "@ant-design/icons";
 import { theme as antdTheme, Badge, ConfigProvider, Divider, Drawer, FloatButton } from "antd";
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
@@ -22,7 +22,7 @@ import {
 	Tabbar,
 } from "./blocks";
 
-const preferencesContentId = "__react-antd-admin__preferences_drawer__"
+const preferencesContentId = "__react-antd-admin__preferences_drawer__";
 export function Preferences({ ...restProps }: ButtonProps) {
 	const { t } = useTranslation();
 	const navigate = useNavigate();

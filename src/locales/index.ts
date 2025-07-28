@@ -1,24 +1,24 @@
 import type { InitOptions } from "i18next";
 
 import enUS from "antd/locale/en_US";
-import zhCN from "antd/locale/zh_CN";
+import idID from "antd/locale/id_ID";
 import i18next from "i18next";
 import { initReactI18next } from "react-i18next";
 
-import { getEnUsLang, getZhCnLang } from "./helper";
+import { getEnUsLang, getIdIdLang } from "./helper";
 
 export * from "./t";
 
-export type LanguageType = "zh-CN" | "en-US";
+export type LanguageType = "id-ID" | "en-US";
 
 export const ANT_DESIGN_LOCALE = {
-	"zh-CN": zhCN,
+	"id-ID": idID,
 	"en-US": enUS,
 };
 
 export const i18nResources = {
-	"zh-CN": {
-		translation: getZhCnLang(),
+	"id-ID": {
+		translation: getIdIdLang(),
 	},
 	"en-US": {
 		translation: getEnUsLang(),
@@ -26,7 +26,7 @@ export const i18nResources = {
 };
 
 export const i18nInitOptions: InitOptions = {
-	lng: "zh-CN",
+	lng: "id-ID",
 	resources: i18nResources,
 	saveMissing: import.meta.env.DEV,
 	missingKeyHandler: async (languages, namespace, translationKey) => {

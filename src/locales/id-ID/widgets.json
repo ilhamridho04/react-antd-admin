@@ -1,0 +1,24 @@
+{
+	"document": "Dokumen",
+	"qa": "Tanya Jawab",
+	"setting": "Pengaturan",
+	"logoutTip": "Apakah Anda ingin keluar?",
+	"viewAll": "Lihat Semua Pesan",
+	"notifications": "Notifikasi",
+	"markAllAsRead": "Tandai Semua Sudah Dibaca",
+	"clearNotifications": "Bersihkan",
+	"versionMonitorTitle": "Notifikasi Pembaruan Versi Sistem",
+	"versionMonitorContent": "Versi baru sistem telah terdeteksi, apakah Anda ingin memuat ulang halaman sekarang?",
+	"versionMonitorConfirm": "Muat Ulang Sekarang",
+	"versionMonitorCancel": "Nanti",
+	"search": {
+		"placeholder": "Masukkan kata kunci untuk mencari menu",
+		"title": "Cari",
+		"select": "Pilih",
+		"navigate": "Navigasi",
+		"close": "Tutup",
+		"noResults": "Tidak Ada Hasil Pencarian",
+		"noRecent": "Tidak Ada Riwayat Pencarian",
+		"total": "Total {{total}} item"
+	}
+}

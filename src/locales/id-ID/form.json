@@ -1,0 +1,42 @@
+{
+	"required": "Silakan isi",
+	"length": "Hanya mendukung {{length}} karakter",
+	"username": {
+		"required": "Silakan masukkan nama pengguna Anda",
+		"invalid": "Nama pengguna harus 4 hingga 16 karakter, mendukung huruf, angka, garis bawah, dan tanda hubung"
+	},
+	"password": {
+		"required": "Silakan masukkan kata sandi Anda",
+		"invalid": "Kata sandi harus 8-16 karakter dan mengandung huruf serta angka"
+	},
+	"code": {
+		"required": "Silakan masukkan kode keamanan"
+	},
+	"mobile": {
+		"required": "Silakan masukkan nomor ponsel Anda",
+		"invalid": "Format nomor ponsel salah"
+	},
+	"telephone": {
+		"required": "Silakan masukkan nomor telepon Anda",
+		"invalid": "Format nomor telepon salah"
+	},
+	"email": {
+		"required": "Silakan masukkan email Anda",
+		"invalid": "Format email salah"
+	},
+	"confirmPassword": {
+		"required": "Silakan masukkan kata sandi lagi",
+		"invalid": "Kata sandi tidak cocok"
+	},
+	"agree": {
+		"required": "Silakan setujui kebijakan privasi dan syarat layanan"
+	},
+	"alphanumeric": {
+		"required": "Silakan masukkan huruf atau angka",
+		"invalid": "Silakan masukkan hanya huruf atau angka"
+	},
+	"unifiedSocialCreditCode": {
+		"required": "Silakan masukkan Kode Kredit Sosial Terpadu",
+		"invalid": "Silakan masukkan Kode Kredit Sosial Terpadu yang valid"
+	}
+}

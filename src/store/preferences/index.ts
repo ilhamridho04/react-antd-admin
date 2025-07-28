@@ -18,7 +18,7 @@ export const DEFAULT_PREFERENCES = {
 	pageLayout: "layout-right",
 	enableBackendAccess: true,
 	enableFrontendAceess: false,
-	language: "zh-CN",
+	language: "id-ID",
 	enableDynamicTitle: true,
 	enableCheckUpdates: true,
 	checkUpdatesInterval: 1,

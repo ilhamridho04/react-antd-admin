@@ -5,11 +5,11 @@ export const getLanguageItems: () => any = (
 ) => {
 	return [
 		{
-			label: "简体中文",
+			label: "Bahasa Indonesia",
 			// Menu
-			key: "zh-CN",
+			key: "id-ID",
 			// Select
-			value: "zh-CN",
+			value: "id-ID",
 		},
 		{
 			label: "English",

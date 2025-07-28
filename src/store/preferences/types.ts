@@ -122,7 +122,7 @@ export interface GeneralState {
 	/**
 	 * @zh 当前语言
 	 * @en Current language
-	 * @default "zh-CN"
+	 * @default "id-ID"
 	 */
 	language: LanguageType
 	/**

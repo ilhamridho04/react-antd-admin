@@ -1,0 +1,7 @@
+{
+	"404SubTitle": "Maaf, halaman yang Anda kunjungi tidak ada.",
+	"403SubTitle": "Maaf, Anda tidak memiliki izin untuk mengakses halaman ini.",
+	"500SubTitle": "Maaf, server mengalami kesalahan.",
+	"unknownComponentSubTitle": "Maaf, rute saat ini tidak memiliki komponen yang sesuai, silakan hubungi pengembang.",
+	"pageErrorTitle": "Ups! Ada yang salah!"
+}
